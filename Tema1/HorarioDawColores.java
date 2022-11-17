@@ -1,6 +1,6 @@
 /*
  * HorarioDawColores.java
- * Este programa muestra por pantalla mi horario de clases, mostrando cada asignatura de un color.
+ * Este programa muestra por pantalla mi horario de clases, mostrando cada asignatura de un color....
  * @autoría CDM
  */
  
