@@ -1,0 +1,252 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Ej3ScannerFechaNacimiento",
+            "request": "launch",
+            "mainClass": "Ej3ScannerFechaNacimiento",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaRectanguloLeerTeclado",
+            "request": "launch",
+            "mainClass": "AreaRectanguloLeerTeclado",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaTrianguloLeerTeclado",
+            "request": "launch",
+            "mainClass": "AreaTrianguloLeerTeclado",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch AritmeticaNumerosLeidos",
+            "request": "launch",
+            "mainClass": "AritmeticaNumerosLeidos",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch CharComoIntOString",
+            "request": "launch",
+            "mainClass": "CharComoIntOString",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch CincoCharAString",
+            "request": "launch",
+            "mainClass": "CincoCharAString",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch CodigoParseintComentado",
+            "request": "launch",
+            "mainClass": "CodigoParseintComentado",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConcatenacionCharString",
+            "request": "launch",
+            "mainClass": "ConcatenacionCharString",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch EscenaCaracteres",
+            "request": "launch",
+            "mainClass": "EscenaCaracteres",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch EscenaCaracteresColores",
+            "request": "launch",
+            "mainClass": "EscenaCaracteresColores",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch EuroAPeseta",
+            "request": "launch",
+            "mainClass": "EuroAPeseta",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch EuroAPesetaLeido",
+            "request": "launch",
+            "mainClass": "EuroAPesetaLeido",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch FacturaConIva",
+            "request": "launch",
+            "mainClass": "FacturaConIva",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch FacturaConIvaLeido",
+            "request": "launch",
+            "mainClass": "FacturaConIvaLeido",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch HorarioDaw",
+            "request": "launch",
+            "mainClass": "HorarioDaw",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch HorarioDawColores",
+            "request": "launch",
+            "mainClass": "HorarioDawColores",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImprimirMiNombre",
+            "request": "launch",
+            "mainClass": "ImprimirMiNombre",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImprimirMisDatos",
+            "request": "launch",
+            "mainClass": "ImprimirMisDatos",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeerNombreCompleto",
+            "request": "launch",
+            "mainClass": "LeerNombreCompleto",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListaTraducciones",
+            "request": "launch",
+            "mainClass": "ListaTraducciones",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListaTraduccionesFormateada",
+            "request": "launch",
+            "mainClass": "ListaTraduccionesFormateada",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiplicacionNumerosLeidos",
+            "request": "launch",
+            "mainClass": "MultiplicacionNumerosLeidos",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch PesetaAEuro",
+            "request": "launch",
+            "mainClass": "PesetaAEuro",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch PesetaAEuroLeido",
+            "request": "launch",
+            "mainClass": "PesetaAEuroLeido",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch PiramideRellenaAsteriscos",
+            "request": "launch",
+            "mainClass": "PiramideRellenaAsteriscos",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch PiramideVaciaAsteriscos",
+            "request": "launch",
+            "mainClass": "PiramideVaciaAsteriscos",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch PiramideVaciaColores",
+            "request": "launch",
+            "mainClass": "PiramideVaciaColores",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch PiramideVaciaInvertidaColores",
+            "request": "launch",
+            "mainClass": "PiramideVaciaInvertidaColores",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch PruebaImportante",
+            "request": "launch",
+            "mainClass": "PruebaImportante",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch PruebaLeerTeclado",
+            "request": "launch",
+            "mainClass": "PruebaLeerTeclado",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch TablaColores",
+            "request": "launch",
+            "mainClass": "TablaColores",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariableNombreCompleto",
+            "request": "launch",
+            "mainClass": "VariableNombreCompleto",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariablesDatosPersonales",
+            "request": "launch",
+            "mainClass": "VariablesDatosPersonales",
+            "projectName": "github_1fdcb239"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariablesEnterasAritmetica",
+            "request": "launch",
+            "mainClass": "VariablesEnterasAritmetica",
+            "projectName": "github_1fdcb239"
+        }
+    ]
+}
